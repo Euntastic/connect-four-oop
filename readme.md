@@ -40,7 +40,7 @@ A game of connect four written in HTML/CSS and JavaScript.
 
 Eun Lee - [@Euntastic](https://twitter.com/Euntastic) - eun@euntastic.dev
 
-Project Link: [https://github.com/Euntastic/umgc-connect-four](https://github.com/Euntastic/connect-four-oop)
+Project Link: [https://github.com/Euntastic/connect-four-oop](https://github.com/Euntastic/connect-four-oop)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
